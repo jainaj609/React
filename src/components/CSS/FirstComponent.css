@@ -1,0 +1,24 @@
+.heading{
+    text-shadow: 5px 3px rgb(1, 240, 240);
+}
+.btn_container{
+    width: max-content ;
+    margin: auto;
+    margin-top: 80px;
+    display: flex;
+    gap: 100px;
+}
+
+#first_button, #second_button{
+    height: 58px;
+    width: 250px;
+    border: 2px solid black;
+    border-radius: 30px;
+    font-size: small;
+}
+button{
+    background-color: rgb(1, 208, 208);
+}
+button:hover{
+    background-color: aqua;
+}

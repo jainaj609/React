@@ -1,0 +1,11 @@
+.class_component{
+    text-align: center;
+    height: 300px;
+    width: 550px;
+    border: 2px solid black;
+    border-radius: 50px;
+    background-color: rgb(214, 149, 235);
+    position: absolute;
+    top: 300px;
+    right: 40px;
+}
